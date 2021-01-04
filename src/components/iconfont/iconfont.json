@@ -1,0 +1,16 @@
+{
+  "id": "2290236",
+  "name": "常用图标",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15465318",
+      "name": "通用_箭头（向上）",
+      "font_class": "jiantouxiangshang",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    }
+  ]
+}

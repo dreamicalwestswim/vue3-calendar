@@ -1,0 +1,16 @@
+
+# 忽略目录
+node_modules/
+public/
+src/
+tests/
+dist/
+
+# 忽略指定文件
+.browserslistrc
+.eslintrc.js
+.gitignore
+.npmignore
+babel.config.js
+package.json
+package-lock.json

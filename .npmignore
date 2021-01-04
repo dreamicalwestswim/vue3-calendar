@@ -4,7 +4,7 @@ node_modules/
 public/
 src/
 tests/
-dist/
+demo/
 
 # 忽略指定文件
 .browserslistrc

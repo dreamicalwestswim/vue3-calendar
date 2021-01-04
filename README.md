@@ -12,6 +12,9 @@
 1. 独立 灵活 可以集成到任何项目里面；
 2. 轻量 易修改 如果需求不能满足，可以很轻易的二次开发。
 
+### Demo
+[地址](https://dreamicalwestswim.github.io/vue3-calendar/demo)
+
 ## 安装
 ```
 npm install vue3-calendar -S
@@ -143,5 +146,3 @@ export default {
  confirmText  | 底部按钮文字 | String | 确定
  confirmDisabledText  | 底部按钮禁用文字 | String | 确定
 
-### Demo
-[地址](https://cli.vuejs.org/config/)

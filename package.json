@@ -1,6 +1,6 @@
 {
   "name": "vue3-calendar",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "基于 Vue3.0 的日历组件",
   "private": false,
   "main":"lib/vue3-calendar.umd.min.js",

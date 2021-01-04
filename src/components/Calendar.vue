@@ -183,7 +183,7 @@ export default {
 </script>
 
 <style lang="scss">
-    @import "iconfont/iconfont.css";
+    @import "iconfont.css";
     .calendar{
         -webkit-tap-highlight-color:rgba(0,0,0,0);
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,

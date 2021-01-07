@@ -28,5 +28,9 @@
     "eslint-plugin-vue": "^7.0.0-0",
     "sass": "^1.26.5",
     "sass-loader": "^8.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dreamicalwestswim/vue3-calendar.git"
   }
 }

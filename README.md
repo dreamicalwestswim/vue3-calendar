@@ -146,3 +146,8 @@ export default {
  confirmText  | 底部按钮文字 | String | 确定
  confirmDisabledText  | 底部按钮禁用文字 | String | 确定
 
+#### Event
+
+  参数  | 说明 | 类型 | 默认值
+ ---- | ----- | ------ | ------  
+ confirm  | 选择日期后点击确定触发 <br> type=single，参数是date <br> type=multiple，参数是[date,date,...] <br> type=range，参数是[date开始日期,date结束日期]     | (date或[date])=>{} |  
